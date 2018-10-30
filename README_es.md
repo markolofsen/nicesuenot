@@ -6,7 +6,7 @@
 # Hola mi amigo
 Esa es una muestra de mi código para nicesuenot
 `` `
-versión de nodo de importación == 0.0.5
+versión de nodo de importación == 0.0.6
 `` `
 
 Otra [[other]] variable

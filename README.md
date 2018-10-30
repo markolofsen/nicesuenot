@@ -6,7 +6,7 @@
 # Hello my friend
 That's sample of my code for nicesuenot
 ```
-import node version==0.0.5
+import node version==0.0.6
 ```
 
 Other [[other]] variable
